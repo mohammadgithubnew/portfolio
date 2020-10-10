@@ -30,7 +30,7 @@ p {
 
 h1 {
   font-size: 90px;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
   margin-top: 300px;
 }
 
@@ -40,4 +40,8 @@ a {
 
 .link {
   margin-top: 100px;
+}
+
+.code {
+  margin-left: 40px;
 }
